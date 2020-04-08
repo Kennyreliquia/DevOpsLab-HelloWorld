@@ -27,4 +27,4 @@ deploy:
   app: code-devopslab-helloworld
   on:
     branch: master
-    repo: Kennyreliquia/DevOpsLab-HelloWorld # GitHub Repo
+ 
